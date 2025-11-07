@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621634069001",
+    "project_id": "giuaky-c6ccd",
+    "storage_bucket": "giuaky-c6ccd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621634069001:android:6d043d084722cb8893ced8",
+        "android_client_info": {
+          "package_name": "com.example.giuaky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTMXztUHEMUAxD_KmZVl_ZcEcbtINv2L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
